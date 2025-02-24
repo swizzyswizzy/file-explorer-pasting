@@ -6,7 +6,7 @@ Now you can just paste screenshot straight from your clipboard into file explore
 
 # Demo
 
-
+https://www.youtube.com/watch?v=gCUyffry3Rw
 https://github.com/user-attachments/assets/2ba8dce2-5ba4-42e7-a57b-e564a73d5587
 
 
